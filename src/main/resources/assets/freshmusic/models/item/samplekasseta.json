@@ -1,0 +1,6 @@
+{
+  "parent": "freshmusic:custom/kasseta",
+  "textures": {
+    "2": "freshmusic:blocks/kassetasampleupd"
+  }
+}
