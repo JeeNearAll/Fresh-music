@@ -1,0 +1,59 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 300,
+          "y": 132
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "play track",
+          "width": 200,
+          "height": 40,
+          "name": "play track",
+          "x": 372,
+          "y": 132
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "stop play",
+          "width": 180,
+          "height": 40,
+          "name": "stop play",
+          "x": 372,
+          "y": 186
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Playbox",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Playbox",
+          "x": 372,
+          "y": 96
+        }
+      }
+    ]
+  }
+}
