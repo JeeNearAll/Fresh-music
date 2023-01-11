@@ -1,8 +1,0 @@
-{
-  "parent": "freshmusic:custom/sample",
-  "textures": {
-    "all": "freshmusic:blocks/sampletexture",
-    "particle": "freshmusic:blocks/sampletexture",
-    "0": "freshmusic:blocks/sampletexture"
-  }
-}
